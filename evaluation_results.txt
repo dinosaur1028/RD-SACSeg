@@ -1,0 +1,1 @@
+2025-09-17 11:40:50 | 当前模型 | images: 129 | precision: 0.0000 | recall: 0.0000 | f1_score: 0.0000 | accuracy: 0.9981 | iou: 0.0000 | specificity: 0.9981 | kappa: nan
